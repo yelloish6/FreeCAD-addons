@@ -21,6 +21,10 @@
     path = AirPlaneDesign
     url = https://github.com/FredsFactory/FreeCAD_AirPlaneDesign
     branch = master
+[submodule "AIGenFurniture"]
+	path = AIGenFurniture
+	url = https://github.com/yelloish6/AIGenFurniture-freecad-workbench
+	branch = main
 [submodule "Alternate_OpenSCAD"]
     path = Alternate_OpenSCAD
     url = https://github.com/KeithSloan/OpenSCAD_Alt_Import
